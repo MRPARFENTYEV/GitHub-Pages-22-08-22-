@@ -6,6 +6,6 @@
 
 [Тут можно ввести дату своего рождения и увидеть свой знак зодиака](https://replit.com/@VLADISLAVPARF/thesecondhomework#main.py)
    
-   [Еще я есть на Hackerrank, где я написал "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem)
+[Еще я есть на Hackerrank, где я написал "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem)
 
 Пожелайте мне удачи, потому что я хочу стать крутым программистом как мой друг Коля, который работает на Microsoft!
